@@ -1,0 +1,49 @@
+{
+      "item_name": "cross_promotion",
+      "item_array": [
+{
+          "app_name": "Female Fitness",
+          "app_package": "com.outthinking.femalefitness",
+          "icon_url": "http://videomergerapp.com/mobilestores/cross_promo_fitness/health_and_fitness_icons/female_fitness_icon.webp"
+        }
+,
+{
+          "app_name": "Workout Apps",
+          "app_package": "com.outthinking.elevenminutesworkout",
+          "icon_url": "http://videomergerapp.com/mobilestores/cross_promo_fitness/health_and_fitness_icons/home_workout_women.webp"
+        }
+         ,
+        {
+          "app_name": "Abs Workout",
+          "app_package": "com.outthinking.abs",
+          "icon_url": "http://videomergerapp.com/mobilestores/cross_promo_fitness/health_and_fitness_icons/abs.webp"
+        },
+        {
+          "app_name": "Water Reminder",
+          "app_package": "com.outthinking.waterdrinkalarm",
+          "icon_url": "http://videomergerapp.com/mobilestores/cross_promo_fitness/health_and_fitness_icons/water_drinking.webp"
+        }
+        ,
+        {
+          "app_name": "Weight Loss",
+          "app_package": "com.outthinking.weightloss",
+          "icon_url": "http://videomergerapp.com/mobilestores/cross_promo_fitness/health_and_fitness_icons/weight_lose.webp"
+        }
+,
+        {
+          "app_name": "Track Running",
+          "app_package": "com.outthinking.fitnessrun",
+          "icon_url": "http://videomergerapp.com/mobilestores/cross_promo_fitness/health_and_fitness_icons/track_running.webp"
+        },
+{
+          "app_name": "Buttocks Workout",
+          "app_package": "com.outthinking.buttocksworkout",
+          "icon_url": "http://videomergerapp.com/mobilestores/cross_promo_fitness/health_and_fitness_icons/buttocks.webp"
+        },
+{
+          "app_name": "Weight Gain",
+          "app_package": "com.outthinking.weightgainexercise",
+          "icon_url": "http://videomergerapp.com/mobilestores/cross_promo_fitness/health_and_fitness_icons/weightgain_icon.webp"
+        }      ]
+    }
+
